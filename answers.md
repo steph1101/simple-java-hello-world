@@ -1,9 +1,9 @@
 # Answers file
 
-## 1.?
+## 1.? big red cat
 
 
-## 1.6
+## 1.6 bizarre
 
 
 ## 1.11
